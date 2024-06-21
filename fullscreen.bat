@@ -1,7 +1,5 @@
-::created by: Michael Kwiecien-Fisher (michael@wandoo.ca)
+::created by: MMKF
 @echo off
-
-::created by: Michael Kwiecien-Fisher (michael@wandoo.ca)
 
 :VBSDynamicBuild
 SET TempVBSFile=%temp%\~tmpSendKeysTemp.vbs
@@ -29,8 +27,6 @@ color D
 echo This is a program that makes the command line go into fullscreen by simulating F11 echo being clicked.
 echo You can also mod it to simulate other keys being pushed.
 echo Push any key to exit
-
-::created by: Michael Kwiecien-Fisher (michael@wandoo.ca)
 
 
 pause>>NUL
